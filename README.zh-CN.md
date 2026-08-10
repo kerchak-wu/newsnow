@@ -44,7 +44,7 @@
 ### Cloudflare Pages 配置
 - 构建命令：`pnpm run build`
 - 输出目录：`dist/output/public`
-
+ 
 ### GitHub OAuth 配置
 1. [创建 GitHub App](https://github.com/settings/applications/new)
 2. 无需特殊权限
